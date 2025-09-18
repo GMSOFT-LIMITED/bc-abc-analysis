@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+  "name": "Paperpack",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "server": "https://businesscentral.dynamics.com",
+            "tenant": "8dc159af-c30f-4c08-8094-50f1954ce0bc",
+            "environmentName": "GMSOFT_GR",
+            "startupCompany": "GMSOFT",
+            "schemaUpdateMode": "Synchronize",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+
+    
+        }
+    ]
+}
